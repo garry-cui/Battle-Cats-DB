@@ -1,5 +1,6 @@
 # Large local game files and generated extraction/decryption output
 /apks/
+/game_data/
 /output_path/
 
 # Python bytecode and local environments
